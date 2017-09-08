@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script2/placeNPC.cs">
+    <Files>
+      <File FileName="Assets/script2/headLoop.cs" Line="1" Column="1" />
+      <File FileName="Assets/script2/thisCollideWith.cs" Line="26" Column="40" />
+      <File FileName="Assets/script2/speedLoop.cs" Line="1" Column="1" />
+      <File FileName="Assets/SingleGear0.cs" Line="1" Column="1" />
+      <File FileName="Assets/script2/NPCcollideWithNpc.cs" Line="46" Column="34" />
+      <File FileName="Assets/script2/buildforbbiden.cs" Line="1" Column="1" />
+      <File FileName="Assets/script2/npcTransport.cs" Line="53" Column="8" />
+      <File FileName="Assets/script2/npcMove.cs" Line="160" Column="4" />
+      <File FileName="Assets/script/placewheels.cs" Line="112" Column="18" />
+      <File FileName="Assets/script2/Time_Manager.cs" Line="63" Column="1" />
+      <File FileName="Assets/script2/placeNPC.cs" Line="21" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

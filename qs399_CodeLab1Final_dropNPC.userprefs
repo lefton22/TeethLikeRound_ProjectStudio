@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script2/npcMove.cs">
+    <Files>
+      <File FileName="Assets/script2/dragAndDrop.cs" Line="70" Column="3" />
+      <File FileName="Assets/script2/mouseAll.cs" Line="12" Column="11" />
+      <File FileName="Assets/script2/collisionForbbiden.cs" Line="35" Column="32" />
+      <File FileName="Assets/script2/npcTransport.cs" Line="20" Column="3" />
+      <File FileName="Assets/script2/npcMove.cs" Line="87" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scene/6_debugCollider.unity
+  isLoaded: 1
+  isActive: 1
